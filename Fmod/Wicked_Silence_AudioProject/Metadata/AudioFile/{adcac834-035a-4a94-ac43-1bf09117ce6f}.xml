@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{adcac834-035a-4a94-ac43-1bf09117ce6f}">
+		<property name="assetPath">
+			<value>Male Fear and Cold 11.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.5559410430838998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5b37ad30-4710-46f0-91f0-8601c94d5d0a}</destination>
+		</relationship>
+	</object>
+</objects>

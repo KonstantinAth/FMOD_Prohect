@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8334d7f8-d878-419d-a148-8b598d98acd2}">
+		<property name="assetPath">
+			<value>footstep_wood_walk_19.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.2578125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5b37ad30-4710-46f0-91f0-8601c94d5d0a}</destination>
+		</relationship>
+	</object>
+</objects>

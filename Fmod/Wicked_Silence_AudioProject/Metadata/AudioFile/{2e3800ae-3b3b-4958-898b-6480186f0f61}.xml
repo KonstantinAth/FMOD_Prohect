@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2e3800ae-3b3b-4958-898b-6480186f0f61}">
+		<property name="assetPath">
+			<value>footstep_metal_high_run_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.31583333333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5b37ad30-4710-46f0-91f0-8601c94d5d0a}</destination>
+		</relationship>
+	</object>
+</objects>
